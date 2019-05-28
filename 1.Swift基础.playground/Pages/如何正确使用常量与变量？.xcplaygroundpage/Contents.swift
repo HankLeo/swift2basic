@@ -6,6 +6,8 @@ var 课程名 = "3天学会Swift 3.1"
 课程名 = "3天学会Swift 4"
 
 
+var course = "Swift 4"
+course = "Swift 4 Basic"
 
 
 //: [>](@next)

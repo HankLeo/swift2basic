@@ -3,5 +3,7 @@
 
 var price = 2.5
 
+price = 3
 
+print(price)
 //: [>](@next)

@@ -6,6 +6,12 @@ var boboAddress: String?
 boboAddress = "上海市嘉定区众仁路399号A座701"
 
 
+var email : String?
+print(email)
+email = "demo@test.com"
+
+
+//var name
 
 
 

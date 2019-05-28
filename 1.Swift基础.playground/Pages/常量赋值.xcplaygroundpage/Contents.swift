@@ -7,6 +7,13 @@ let 女友数量 = 0
 
 let earthToSun = 1
 
+let salary = 20000
+
+let name = "Hank"
+
+let age = 27
+
+
 //预定义：8位整数型的区间
 Int.min...Int.max
 
