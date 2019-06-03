@@ -8,6 +8,9 @@ let b = -a
 //: - 二元操作符操作2个目标,在2个目标之间,前后用空格分隔.
 3 + 4
 
+"Hello" + " World"
 
+var name = "Hank"
+print("Hello " + name)
 
 //: [赋值操作符>](@next)

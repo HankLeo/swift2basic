@@ -10,6 +10,13 @@ let dinner = " 今晚吃鸡😆"
 
 good.append(dinner)
 
+let symbol:Character = "!"
 
+good.append(symbol)
+
+//: - 字符串的循环
+for word in good {
+    print(word)
+}
 
 //: [>](@next)

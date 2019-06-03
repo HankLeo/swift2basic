@@ -15,9 +15,13 @@ let a = """
 //: - 首字符索引 startIndex, endIndex是尾字符后一个位置.
 a.startIndex
 a.endIndex
+//: - index不是int类型
+print(a.startIndex)
 
 //: - 确定索引后,用下标来访问相应字符
 a[a.startIndex]
+//a[a.endIndex]   out of bound
+//a[0]    wrong
 
 //: - 用字符串的index(after:)或index(before)引用后一个或前一个索引
 a[a.index(after: a.startIndex)]
